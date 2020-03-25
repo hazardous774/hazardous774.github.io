@@ -1,0 +1,14 @@
+Package: com.hazardous774.productred
+Name: Product Red Theme
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Product Red
+Maintainer: hazardous774 <rbw0693@gmail.com>
+Author: hazardous774 <rbw0693@gmail.com>
+Section: Themes
+Depends: winterboard
+Filename: debs/ProductRED.deb
+Size: 46783
+MD5sum: 5614195bb5d3816acb8d08117517490a
+SHA1: 1693fcdbebfbfb02ff2b48577f39f9ee6ee8b889
+SHA256: 46a1bbb6f3241e79c6c569407845449e473a98ccc25f2782eefe5fb4da8be454
